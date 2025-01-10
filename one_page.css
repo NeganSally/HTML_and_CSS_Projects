@@ -1,0 +1,21 @@
+/* FONT FAMILY */
+body {
+    font-size: 14px;
+    margin: 0;
+    font-family: Papyrus, fantasy;
+    line-height: 1.42857143;
+    color: #00ffff;
+    background-color: #000;
+}
+
+h1 {
+    font-family: Papyrus, fantasy;
+    color:blanchedalmond;
+}
+
+form input[type="text"] {
+    width: 50%;
+    margin: auto;
+    border: 5px white;
+    border-radius: 10px;
+}
